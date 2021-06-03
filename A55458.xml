@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Popish fables, Protestant truths, and plot-smotherers displayed in a satyrical dialogue between Fly-blow, a Tory, Swift-heel, a Tantivy, Flash, a Brumegeum, See-well, a Whigg, Cross-truth, a papist.</title>
+         </titleStmt>
+         <extent>Approx. 76KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55458</idno><idno type="EEBO-CITATION">12066130</idno>
+  <idno type="VID">53353</idno>
+  <idno type="EEBO-PROQUEST">2240951317</idno>
+  
+            <idno type="STC">Wing P2950</idno>
+            <idno type="STC">ESTC R23224</idno>
+            <idno type="OCLC">12066130</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 819:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Popish fables, Protestant truths, and plot-smotherers displayed in a satyrical dialogue between Fly-blow, a Tory, Swift-heel, a Tantivy, Flash, a Brumegeum, See-well, a Whigg, Cross-truth, a papist.</title>
+               </titleStmt>
+               <extent>[8], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Spicer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Appendix: p. 27-28.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53353:1"/>
+            <pb facs="tcp:53353:1"/>
+            <p>Popish Fables, PROTESTANT TRUTHS, AND Plot-Smotherers Displayed.</p>
+            <p>In a Satyrical DIALOGUE BETWEEN
+<list>
+                  <item>Fly-blow, A TORY.</item>
+                  <item>Swift-heel, A TANTIVY.</item>
+                  <item>Flash, A BRUMEGEUM.</item>
+                  <item>See-well, A WHIGG.</item>
+                  <item>Cross-Truth, A PAPIST.</item>
+               </list>
+            </p>
+            <q>
+               <l>Sanguine fundata est, Ecclesia sanguine stetit,</l>
+               <l>Sanguine succrevit, sanguine finis erit.</l>
+            </q>
+            <p>
+               <hi>London:</hi> Printed for <hi>John Spicer.</hi> 1682.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:53353:2"/>
+            <pb facs="tcp:53353:2"/>
+            <head>THE PREFACE.</head>
+            <p>NOtwithstanding the Providence of God, and the good success he has afforded from time to time, in the discovery and bringing to Justice those concern'd in the Popish Plot, and Death of Sir <hi>Edmundbury Godfrey,</hi> yet such is the unpa<g ref="char:EOLhyphen"/>ralleld impudence of the Popish Pamphleteers, the <hi>Observa<g ref="char:EOLhyphen"/>tor, Heraclitus, Tompson,</hi> and the rest, that they would give God and Men the Lye, by insinuating into the minds of his Majesties Subjects, no such matter as a Popish Plot, but a real damnable Phanatical one; and that the Melan<g ref="char:EOLhyphen"/>cholly Gentleman killed himself. With what foreheads of Brass do these fellows also villify Parliaments, and squirt out reflections of the Justice of the Nation, where issues and event of things cross their hellish contrivances! Nay, so earnest are these Gentlemen to see their horrid Machina<g ref="char:EOLhyphen"/>tions take effect, and so raving mad that they come no sooner about, that unless a man will, to facilitate the way to his and his Countries ruine, give away the protection of him<g ref="char:EOLhyphen"/>self, his Soverain, (whom God preserve) and let them go<g ref="char:EOLhyphen"/>vern the Nation by their Measures, is a rank Phanatick and a Whig; and whatever opposes or layes open their blood-thirsty design, <hi>ipso momento</hi> turns Phanaticism, and Whig<g ref="char:EOLhyphen"/>gism. So that I think these are the Magicians, that would turn Rods into Serpents, and Dust into Lice, and not the Parliament (as <hi>Roger</hi> would have it) that made him scam<g ref="char:EOLhyphen"/>per to <hi>Holland.</hi> I cannot (without astonishment) behold the struglings in the womb of this Nation, occasioned by these Messengers of Hell, and his Ʋnholiness the Po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e▪ and be<g ref="char:EOLhyphen"/>fal
+<pb facs="tcp:53353:3"/> of this Northern Heresie, as they call it, and Mother-Church triumph. How would it rejoyce them, I say, to be<g ref="char:EOLhyphen"/>hold so good a step towards it, as a Popish Successor to mount the English Throne! then hay boyes up go we indeed. But <hi>Hodge,</hi>
+               <note place="margin">Mr. L'Estrange Pa. in Másquerade, p. 69.</note> if you will believe him, tells you in plain terms, that our fears of Popery and a Popish Successor, and all the whole Plot against the King, Religion, and Government, is but a painted Lyon against a wall, and the prosecutors of it a real bed of Vipers; nay, that the only way to keep the Protestant Religion on the hin<g ref="char:EOLhyphen"/>ges, is to suffer a Popish Successor to come to the Crown. He goes on and boldly tells you,<note place="margin">Page 21. ibid.</note> This is enough (says he) to convince the world, that the very sound of Popery will do the business, as well without ground as with it; and whoever goes to alarum the people upon this desperate point, had need give good security for his Allegi<g ref="char:EOLhyphen"/>ance. Now I appeal to all the Tories, who so much admire the Author as a Defender of the King and his Laws, taking his words <hi>in mitiori sensu,</hi> whether they savour of any such matter. Surely 'twas somewhat more than an empty sound that convinced the world of the Popish Plot. The Kings Speeches, the Votes and Proceedings of several Parliaments, the death of Sir <hi>Edmundbury Godfrey,</hi> and the Execution of so many Traytors, gave the world a satisfaction, which are grounds sufficient, in my opinion, with submission to Mr. Popish <hi>L'E.</hi> but I perceive he would fain bring the peo<g ref="char:EOLhyphen"/>ple not to believe them such; and that this Caution monger should tell us, (after all these evident demonstrations) that we must not dare however to say so, unless one carries a couple of house-keepers in our pocket, to be security for our Allegiance, is very <hi>Strange.</hi> Now I would fain have such <hi>empty sounds</hi> as these methinks sor Mr. <hi>L'E's</hi> Phanatical Plot, and if he cannot shew us any such. then I should think he ought to give good securit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for his Allegiance, I am sure he has sufficiently alarm'd the people with the fears of one, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by whom carried on the Witnesses N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes▪ how to be ef<g ref="char:EOLhyphen"/>fected,
+<pb facs="tcp:53353:3"/> the persons Executed for it, and where the Army lay, he is <hi>Jack Twyford,</hi> knows nothing of the matter. The Law obliges no man to accuse himself, or else if Mr. Observ. was but to be examin'd as to his <hi>innocence</hi> in that matter, I hardly think <hi>it would shine like the Sun at noon-day.</hi> Methinks in his <hi>Observators</hi> at their first coming out, he chalk'd out as fair a way to a <hi>Phanatical Plot,</hi> for the Irish <hi>O Hones</hi> to walk in as may be; and then any <hi>Judicious Reader</hi> that has observ'd his Worship, may with half an eye behold him all along framing it; for first, his way is to fill the mind of the people with fears of a <hi>Republican Con<g ref="char:EOLhyphen"/>spiracy,</hi> by comparing the Proceedings of the last <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi> with that of Forty One; inferring, that the measures and methods they took to discover the Popish Plot, and punish the Offenders, must unavoidably produce the same effect as that in Forty One; then he makes some Topical reflections on particular men that are in it; then tells us how probable it is: and if the Reader will be at the pains to view his Ob<g ref="char:EOLhyphen"/>servations, and the Proceedings against his Lordship at the <hi>Old-Bailey,</hi> he will find, that the Witnesses against the <hi>E.</hi> of <hi>S.</hi> walk in those paths exactly; so that I find most wise and discerning men believe several of the <hi>Abortive shams, the Brats of his Brain only;</hi> others he has no doubt licked into shape too. Now I would ask the <hi>Observator</hi> this question, whether he thinks he can prove the paper called the Associ<g ref="char:EOLhyphen"/>ation, pretended to be found in the <hi>Earls Closet,</hi> to be of his Lordships drawing, as well as time will prove he had a hand in <hi>Tompsons Letters to Prance?</hi> I am apt to think not; and yet how does he and the rest of the <hi>Popish hirelings,</hi> endeavour to improve it to his utter ruine? and yet methinks nothing ever appeared more improbable, than that his Lord<g ref="char:EOLhyphen"/>ship should be concerned in a <hi>Protestant Plot,</hi> if we do but consider the <hi>ways and methods</hi> he took to carry it on, and compare it with the <hi>Papists</hi> in theirs; first, the <hi>Papists ap<g ref="char:EOLhyphen"/>ply themselves to those of their own Religion, whose cir<g ref="char:EOLhyphen"/>cumstances are mean in the world, but their Faith as strong
+<pb facs="tcp:53353:4"/> as Mustard; to them its told, that they may advance their Fortunes, if they will, by undertaking a matter for the good of Holy-Church; you may imagine his Religion, and the offers made them, are quickning Motives to their un<g ref="char:EOLhyphen"/>dertaking. 2. They Administer the Oaths of Secresie. 3. The Sacrament in the strictest manner; after these, they are minded of two Doctrines of their Church; the first, that if they conceal all things communicated to them, they will infallibly be saved; and on the contrary, if they re<g ref="char:EOLhyphen"/>veal it,</hi>
+               <note place="margin">Vide <hi>Balrons</hi> Dis<g ref="char:EOLhyphen"/>covery.</note>
+               <hi>then are they irrecoverably Damned:</hi> all this matter being performed, ere they durst trust them, although of the same <hi>Church;</hi> then they let them know their business, giving them an <hi>earnest-penny in hand.</hi> Now before I acquaint you with the <hi>E. of S. ways and methods,</hi> I crave leave to premise two things: <hi>1.</hi> All mankind (nay, his very Enemies) will grant his Lordship is a discreet man, and not subject to rashness and folly, as many of his Quality are. <hi>2.</hi> That he is not less versed in the Politicks and <hi>Laws of the Land</hi> than his Enemies <hi>the Papists and Tories are;</hi> and if he were as ill a man as some would have him to be, <hi>a Plotter against his King and Countrey,</hi> yet surely his <hi>zeal</hi> could never hurry him beyond all the <hi>common rules of Safety.</hi> Well! let us consider then his <hi>Lordships Method,</hi> why, because he would be above board with them, no sooner are they brought into his Lordships company, at first sight too, without any preliminary dis<g ref="char:EOLhyphen"/>course, or giving them any Oath of Secresie, Sacrament, Mo<g ref="char:EOLhyphen"/>ney, Saving or Damning Doctrine, That the Parliament was resolved to seize the King at <hi>Oxford,</hi> and bring him in<g ref="char:EOLhyphen"/>to <hi>London,</hi>
+               <note place="margin">Vide the Proceedings at the <hi>Old-baily.</hi>
+               </note>
+               <hi>&amp;c.</hi> Truly I do not hear his Lordship ever offered to make them drink for their pains. But then suppose the <hi>E.</hi> had taken the good old Popish method, what assurance could his Lordship have, that these fellows had changed their Principles, and were become true <hi>Converts</hi> to the <hi>Protestant Religion,</hi> when their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ives were as full of <hi>License,</hi> and their <hi>Practises</hi> as full of
+<pb facs="tcp:53353:4"/>
+               <hi>Outrages</hi> as ever? In a word, what reason could his Lord<g ref="char:EOLhyphen"/>ship have to think they would be truer to him than to the <hi>Pa<g ref="char:EOLhyphen"/>pists?</hi> and notwithstanding the improbability of these things, and the incoherence of the Evidence, yet how did the <hi>Popish Writers</hi> endeavour to improve it to his Lordships <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by vindicating of the <hi>Irish-men,</hi> making them to be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <hi>credible Witnesses!</hi> and yet the <hi>Observator</hi> will <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> allow one of them to be a good Witness against himself, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abuses them in the highest manner imaginable. And when <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fury had found the Bill <hi>Ignoramus,</hi> how did they fret, Joam, and hector, abuse the Jury, affront every body that op<g ref="char:EOLhyphen"/>posed their railings? No wonder! for frustration of ex<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctation will make a wise man mad, and choke himself with <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Neck-cloath,</hi> and a <hi>Coleman</hi> say, there's <hi>no Faith in man,</hi> but this point they reckon to have gain'd, by putting the Nation into a state of <hi>Abhorrence</hi> against that paper cal<g ref="char:EOLhyphen"/>led the <hi>Association,</hi> pretended to be found in his Lordships <hi>Closet,</hi> and so to Murder him that way. But to clear up his Lordships innocence yet a little more, why did not the ma<g ref="char:EOLhyphen"/>nagers produce all persons that were in the <hi>Closet</hi> when the paper was seized, to have testifyed to the <hi>Jury</hi> some or one of them did not drop it there? Such a <hi>Negative</hi> would per<g ref="char:EOLhyphen"/>haps have put the matter a little more out of doubt, but that not being done, the contrary does not yet appear. So like was this <hi>Popish Stratagem,</hi> to that of <hi>Fitzharris</hi> Libel, (that one would think it cast in the same Mould) which was to be sent by the penny-post to the <hi>Protesting Lords,</hi> and the lead<g ref="char:EOLhyphen"/>ing Members of the <hi>House of Commons,</hi> and then they were to be seized with those papers about them, and you may guess what was to follow.</p>
+            <p>These and many other courses did these Popish Blood-hounds take to obliterate their Damnable Plot, and to fix it on the Protestants: how have they endeavoured to stifle the Death of the worthy Knight, Sir <hi>Edmundbury Godfrey,</hi> by offering to prove him <hi>Felo-de-se:</hi> the Pope having lost his Credit by his death, that makes such a noise in the world, resolved they were to cancel it, either by turning it on the Protestants,
+<pb facs="tcp:53353:5"/> or laying it at his own door; nay, any thing must be done to rub off the dirt, that has bespattered true Popish Catholicks. Had not an unseasonable showr crost the recreations of those Popish Insects, <hi>Tomson, Farewel,</hi> and <hi>Pan</hi> at Councel-Board, (which made them ready to quarrel with Heaven) where would their growing impudence have stop'd? There are Witnesses yet alive, that can prove a person very like Sir <hi>Edmundbury Godfrey,</hi> haled into <hi>Somerset-house</hi> instead of him, but was let go upon discovery he was not the man, with Volleys of Oaths and Curses they had then mist him; and as long as such fellows shall be suffered to do these things against the Records of a Nation, as long as trusty <hi>Hodge</hi> shall squirt out Scandalous and Se<g ref="char:EOLhyphen"/>ditious Pamphlets from the Press, defend the Church of <hi>Rome</hi> from the Doctrine of Deposing Kings, in a publick house, and at a dead lift give a cast of his Office to a dying man, Administring to him Extream Ʋnction, as he did to <hi>Capricorn,</hi> Father <hi>Evans</hi> (if it be true) escape out of a Pulpit into which he stole, the Crape gown-men in <hi>H.</hi> deprived of his Livings by the Bishop and Deacons, for being a Papist, another hug'd and imbraced at <hi>Salisbury</hi> for a Sermon Preached there, <hi>Mack Donalds</hi> Speech at <hi>Eden<g ref="char:EOLhyphen"/>burgh</hi> sham'd upon the Whiggs, and <hi>Hodge</hi> take no notice of them nor their Actions, but vindicate them tooth and nail, from any thing that reflects on them, and yet be a True Protestant Defender, and not rather a Priest in Or<g ref="char:EOLhyphen"/>ders from <hi>Rome,</hi> I dare do Pennance with <hi>Nebuchadnezzar.</hi>
+            </p>
+            <p>Nay, so in love is he with the Popish Religion, that he ship-wrecked his brains over and over again, to defend the rejection of the Bill of Exclusion. So fond is he of a Popish Successor, that he labours with cheerfulness and arguments to prove, he must be an infallible Defender of the Protestant Re<g ref="char:EOLhyphen"/>ligion and Laws; but I would ask Mr. <hi>L'E.</hi> what security besides his word he can give us, that if a Popish Successor comes to the Crown, that we shall enjoy our Religion, Lives, Liberties, and Estates, (for I dare not take his word.) But I will conclude with a story preached by a Religious man, be<g ref="char:EOLhyphen"/>ing an <hi>Italian</hi> Prince.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>I saw, said he, my Lord, a strange vision last night, my thought the Earth open'd be<g ref="char:EOLhyphen"/>fore me, and I distinctly lookt into the Center thereof, I considered the torments of the other life, and all that terrible train of Gods Iustice, since which my imaginati<g ref="char:EOLhyphen"/>ons is s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>arce well re-assumed; amongst the wicked of the past ages, I knew many of these Detractors, Murderers, and Hypocrites, ran thither in great Troops, and crow<g ref="char:EOLhyphen"/>ded at the brim of this Gulph, but having observed in their Lives the visible marks of their reprobation, I thought it strange to see them arrive, whereto I had seen them march: what astonished me most extreamly above all, was, that I perceived you there, my Lord, in this unhappy throng, which was at the brink of destruction; and even as I was thus affrighted and interdicted, by the novelty of so unexpected an Encoun<g ref="char:EOLhyphen"/>ter, I cryed out to your Highness, is it possible that a man should Damn himself by pray<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ng to God, and that you should go to Hell; you, my Lord, that are one of the best and most Religious Princes in the world: whereunto your Highness answered me with a sigh, <hi>I do not go Father, but I am led thither.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:53353:5"/>
+            <head>Popish Fables, Protestant Truths, AND Plot-Smotherers Displayed, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>THese Whiggs are plaguy things, <hi>Mr. Swift-heel,</hi> they will defend Whiggism, or Re<g ref="char:EOLhyphen"/>formation, (which you are pleased to call it) in spight of all our teeths, notwithstanding our manifold endeavours to the contrary. A man can't blow his Nose upon the Protestant Religion, nor wipe his A— with a Parliament, nor walk about the streets with the Re<g ref="char:EOLhyphen"/>ligion in fashion, but he is presently a down-right main<g ref="char:EOLhyphen"/>tainer of Popery: nay, if he concerns himself with no Re<g ref="char:EOLhyphen"/>ligion at all, but walks about with an empty Brain and Conscience, then he is a <hi>Tory,</hi> a <hi>Brumegeum,</hi> a <hi>Tantivie,</hi> a what not? Bless us! what a vicious Age do we live in?</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>That is not all, Sir, neither; if we sute but our disposition to sail fairly and evenly before the wind with power, and wear our Religion as we do our Cloaths, till the Mode alters, then these Tell-truths do sometimes catch us before we are down; but we'll <hi>hocus pocus</hi> 'um, and make 'em know the difference between a Fiddle and a Prayer-book.</p>
+               <p>Hark ye though, Mr. <hi>Fly-blow,</hi> by the by, let me ask you one civil question, What Religion may you be of? Are you a true Orthodox Catholick?</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>Yes, and have taken my Degrees too.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Where, at St. <hi>Omers?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>No, no, I'm a Protestant <hi>at large,</hi> by some
+<pb n="2" facs="tcp:53353:6"/> call'd <hi>a Tory;</hi> I can give my self a Dispensation to Swear, Lye, Whore, Game, and be Drunk, without the Popes help; though upon occasion I am the Popes humble ser<g ref="char:EOLhyphen"/>vant too.</p>
+               <p>Now pray don't be angry with me, if I ask you the same civil question you ask'd me; Have you got any Religion?</p>
+            </sp>
+            <sp>
+               <speaker>Swift heel.</speaker>
+               <p>Yes, yes, I am a fashionable <hi>Race-Protestant,</hi> that is to say, a <hi>Tantivy;</hi> I can run, I can ride at no rate, I can play at Leap-frog over Protestant Join'd-stools, I can dance a <hi>Roman Antick,</hi> and can slide over the Ice of Ca<g ref="char:EOLhyphen"/>tholick Queries with a <hi>Bon Grace.</hi> But to explain it bet<g ref="char:EOLhyphen"/>ter, The Whiggs call all this riding Post to the Devil, and only because I am so well accomplished as to be able to write Books on behalf of the <hi>Great Turk,</hi> and the <hi>Pope,</hi>
+                  <note place="margin">Read Bishop <hi>Halls</hi> no Peace with <hi>Rome.</hi>
+                  </note> and to make Proposals for as good a <hi>Re<g ref="char:EOLhyphen"/>union</hi> with one as the other. Now I'le prove you by Logick, that all are Whiggs that are in opposition to the Church of <hi>Rome:</hi> For example,</p>
+               <p>The Church of <hi>Rome</hi> is the Truly Ancient Christian Church; all those that oppose it, are enemies to the True Christian Church: Therefore all those that oppose the Church of <hi>Rome,</hi> are Whiggs.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>A solid Truth, a plain Demonstration. But pray tell me sincerely what a Whigg is?</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>That's according as we divide, subdivide, and re-subdivide it; for there are several species of them: You must know that all Protestant Dissenters we call in the first place Whiggs. Secondly, those that will not allow of a Protestant Plot are all Whiggs too: and so we (according to Ratiocination) have Church-Whiggs. And again, all those that won't believe there never was a Popish Plot, and that Sir <hi>Edmond-bury Godfrey</hi> kill'd himself after he was dead, they are Whiggs: and in fine, all that have not a small Veneration for the Triple Crown (now growing Mo<g ref="char:EOLhyphen"/>dish) are Rank Whiggs.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:53353:6"/>
+               <speaker>Flash.</speaker>
+               <p>Gentlemen, shall not I come in for a snack a<g ref="char:EOLhyphen"/>mong ye? I have a <hi>Puppet-show</hi> of Religion in me too. Gentlemen, let me know what it is you'll be at? I'm for any thing in the world to please ye: would you have me a Papist? Gentlemen, your humble Servant: would you have me a Mahometan? Gentlemen, I'm yours. A Jew, a Heathen, a <hi>No-Religion-man,</hi> one that shall Fear God, and Honour the King, and do neither? Gentlemen I am for who bids most; I love to be Complaisant.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>Thou put'st me to a little kind of a puzzle: what art thou call'd? hast thou got never a Name as well as we?</p>
+            </sp>
+            <sp>
+               <speaker>Flash.</speaker>
+               <p>Yes, yes, they tell me I am a thin brass Protestant silver'd over; but for brevity sake though, they call me a <hi>Brumegeum,</hi> which is my Christian name, but my Sirname is <hi>Flash.</hi> At present my Religion is built mostly upon Interest; if that can but make me <hi>Rich</hi> and <hi>Great,</hi> I have as much as I desire in this world, without putting my self to the trouble of a thought for the next. I'm just like a piece of soft wax, and can (as a Conscientious man should do) receive any impression of Religion that takes well with the Times.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Very well, if we can but unanimously agree and circumvent the Whiggs, we do our business, and shall once again set his Holiness a Cock horse upon his Mare <hi>Albion,</hi> till we tire the Jade with whip and spur, and make her bleed all over. Therefore it is first fit that with Sophistical printed Shams we amuze the Ignorant, and a<g ref="char:EOLhyphen"/>maze the Wise, that with the Jesuitical Bellows of Conten<g ref="char:EOLhyphen"/>tion, we may blow such a strife among them as may not easily be reconciled, and then come in our selves and seize the long-expected Prey.</p>
+               <p>Let us stop their ears,<note place="margin">But to prevent a thorough blindness, read the 1st and 2d Part of the Tory-Plot.</note> and close their eyes, and no question but we shall beget Consciences rotten enough among them to further our Designs; and that the irons
+<pb n="4" facs="tcp:53353:7"/> may heat red-hot, let us rub up old sores (like <hi>Billingsgate</hi>-scolds) and roar out Forty One and Forty Eight, which one would have believed had been buried in Oblivion; these things will breed Jealousies enough among them; and then using our Masters the Devils and the Popes Ma<g ref="char:EOLhyphen"/>xime, <hi>Divide &amp; impera,</hi> Divide and Rule them, we whip in to teaze them.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>Aye, aye, let's whistle 'um once out of their senses, and make 'um believe that all honest Truths are Treason; that the man in the Moon can't drink Claret with<g ref="char:EOLhyphen"/>out a pair of Spectacles on's nose; that 'tis impossible to see wood for trees; that <hi>Jack Adams</hi> was a Gentleman of high Extraction, and came in with the Conquerour; and then as the Begger rowls with his Doxie in Straw, let us rowl in our beloved Forty one and Forty eight, till we cannot get out of it again: With these infatuating whimsies we'll lull asleep the Unthinking Crowd, and shut up the Popish Plot in a Dark Lanthorn.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Aye, and then let us Hector all those that have had an unlucky hand in the Discovery of the Popish Plot, and ridicule them in <hi>Farces</hi> and <hi>Plays</hi> to render them visibly odious.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>Yes, yes, these strong convincing Arguments you cannot be without.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>How now, Fel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow, what are you?</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>One that loves things should appear in their proper shapes and colours without any disguise: Those of your faculties say I'm a Whigg, and thereby you appear to be— True Fire-balls, stufft with Roman Saw-dust.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>D—n ye, you Dog, are you a Whigg? now I warrant you this Son of a whore would not drink the Devils and the Popes Health for the world.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>Are you a Whigg d'ye say? pray get you gone out of our Company, we are no company for Whiggs.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:53353:7"/>
+               <speaker>Swift-heel.</speaker>
+               <p>No, no, we'll make him stay, to serve him as we would have done the Fellow t'other day at the Horse-shooe Tavern.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>Gentlemen, I fear you not, do your worst, it will make your Cause look but the more rusty; e'en let Mr. <hi>Swift-heel</hi> lay about him as long as he pleaseth, and let him still continue to play the Troublesom Lawyer, the Busie Statesman, and the Conscientious Divine, when Truth will at last shine him out of Countenance. Let e<g ref="char:EOLhyphen"/>very Sessions of Parliament make Mr. <hi>Swift-heel</hi> mend his pace, and troop off to <hi>Terra Incognita,</hi> and then let him when the question is asked him why he went, in a civil railing way, cry out, <hi>He needs must go whom the Devil drives.</hi>
+               </p>
+               <q>
+                  <l>From these things sprung the horrid Story</l>
+                  <l>Of Worry'd Whigg, and Hectoring Tory.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>You Rogue, I'le saw your wind-pipe, how dare you prate thus against Loyalty and true Religion?</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>Yes, yes, you are true Promoters of <hi>True Re<g ref="char:EOLhyphen"/>ligion</hi> indeed, and <hi>Loyalty</hi> too, when under the mask of the latter, you endeavour to supplant both, to advance the Interest of <hi>Rome:</hi> it is easily seen without a Magnify<g ref="char:EOLhyphen"/>ing-glass.</p>
+               <p>But sure that gaudy painted Whore that hath so long been pepper'd with the Pox of Pride, Cruelty, and all the enormities that man may call Horrid and Superstitious, will never be Suffered to Spread her Pettycoats on Eng<g ref="char:EOLhyphen"/>lish ground more; her Adorers have made her false Charms too loud a talk already, and her Antiquity which her hum<g ref="char:EOLhyphen"/>ble Servants plead to prove her true blue, showeth her to have been a <hi>Jilt</hi> so long, that now with her Stinking breath, she's grown old enough for baud.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Sirrah, I'll have you up in my next weeks Pamphlet for talking at this rate, if You be not so kind to your self as to hold your peace.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:53353:8"/>
+               <speaker>Swift-heel.</speaker>
+               <p>Sir, I ever was a freind to Truth, and shall never be afraid of you, nor ashamed of her; and will there<g ref="char:EOLhyphen"/>fore proceed for all your huffing. Another Instrument em<g ref="char:EOLhyphen"/>ployed to Sow these corns of Division is, the merry Phi<g ref="char:EOLhyphen"/>losopher in a yellow Dublet; he Trumpets it out, and is so pert and witty, that he allarms both Town and Coun<g ref="char:EOLhyphen"/>try; it fumes from his brain like powder-flashes, like A<g ref="char:EOLunhyphen"/>larm fulmens; it hisses and sings, it drolls and laughs, shuts Truth out at the back-door, hits nothing at all, but melts away invisibly into air at last.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>What a Whiggish Rogue this is; it is not to be endured, he grows impudent, to abuse thus a whole Ca<g ref="char:EOLhyphen"/>bal of wits and <hi>Sticklers</hi> for the Church of <hi>England!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>A Company of very pretty Church-Pillars; there's one more too who now in's latter dayes had rather play at small game than stand out; it is a thin brass Prote<g ref="char:EOLhyphen"/>stant too, God knows, and will write you any thing, on a<g ref="char:EOLhyphen"/>ny side for his hire; he hath a Steel witt, and a puff-paste Conscience. But that which encreaseth my wonder is, that his great Courage should from an overgrown Poet stoop to a paltry Pamphleteer! that he should Heroickly cry down Truth, and put a gloss upon vice! that he should talk of Loyalty to Princes, and of True Religion, when in the days of yore he car'd for neither.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>How rank this Rogue smells of Whiggism!</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>There's that blather of Wind too, <hi>Ruffian Shallow-brain,</hi> The <hi>Loyal</hi> Lyar, that hath blown himself into a Bulk that's monstrous, by getting lyes neatly dressed in Popish garments, and owning them afterwards for the froth of his own Brain. He can neither Slander nor Lye, but it must be in True <hi>Pontificalibus;</hi> for put him but once out of that Road, and he's undone as a Monkey with<g ref="char:EOLhyphen"/>out a bauble to play with.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Who is this you abuse thus, Sirrah?</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>One that would fain be esteemed an Eminent
+<pb n="7" facs="tcp:53353:8"/> Coxcomb, if you please; yet the Pope hath not thought him fit for a Plotter, because his Head is a little too light, being stuffed with Feathers in hair of Brains: But he is grown an excellent <hi>Plot-Spoyler</hi> for his Holiness, yet con<g ref="char:EOLhyphen"/>tinues in his Grace and Favour, and serves indifferently well for a Scullion to turn the Spit while the Plot's a roa<g ref="char:EOLhyphen"/>sting, and hath had it most ingeniously put into his noddle to melt the Butter of the Popish Plot, to make it fit sauce for a Protestant Plot; a Meal-Tub is an Ass to this; he must be a better Conjurer than either Fry<g ref="char:EOLhyphen"/>ar <hi>Bacon,</hi> or Doctor <hi>Faustus</hi> was, to make a man kill him<g ref="char:EOLhyphen"/>self twice; he may chance to find an Irish Evidence to swear to it in some by-corner of Hell, unless to save him that journey at present, he lights of two good ones in this world with bloudy Consciences, and copper Faces cast in the Devils Mould, which one would think are, (or should be) scarce among professors of Christianity.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>Let's hear him no more, he's the Cursedst Whigg that ever talk'd with a Tongue.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Yes, let's hear the Rogue, to laugh at him afterwards.</p>
+            </sp>
+            <sp>
+               <speaker>Flow-blow.</speaker>
+               <p>Well, go on now with your Copper faces, if you can say any more.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>Truly, truly, this <hi>Ruffian Shallow-brain</hi> is ve<g ref="char:EOLhyphen"/>ry much out, unless his Friend the Devil instructs him at another rate; shall such a low-bred Tool as he go to Ar<g ref="char:EOLhyphen"/>raign the Justice of a whole Nation? are men so sensless to think that such a lump of knavish Folly is able to fool them thus? No, no, prithee, good Shallow-brain, comb out thy hair, wash thy face and hands clean, and pull out thy handkerchif and blow thy nose; take good store of snush, it will clear your head, and be sure meddle no more with things out of your Sphere, lest you grow not worth the value of a fit of Laughter; but drink good store of Coffee to settle your Brain a little; burn all your Intel<g ref="char:EOLhyphen"/>ligences, and then never fear Bedlam, man.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:53353:9"/>
+               <speaker>Swift-heel.</speaker>
+               <p>Pray what reason should he have to prove a certain person kill'd himself, unless it were true?</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>A great many: in the first place, golden Promi<g ref="char:EOLhyphen"/>mises, with something of substance in hand. Secondly, it conjures the Popish Plot into the Red Sea, and presently raiseth a more conspicuous Protestant Plot. But I think Heaven (that will suffer no unjust thing) hath by this means opened the Jaws of that Beast the Popish Plot, a great deal wider to be look'd into, than it was before. But I am going to talk to you of Clock-work, and all long of this fellow. I tell you then that the little wheels of a Clock have their circular motion caused by the great wheels, which else of themselves could not in any manner move.</p>
+            </sp>
+            <sp>
+               <speaker>Flow-blow.</speaker>
+               <p>What's this to the purpose? talk to us no more of your Clock-work, but get you gone out of our Company.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>I will say but one thing more for the benefit of Mr. <hi>Shallow-brain,</hi> and then I am gone. It is somthing that may help to fill up his next Intelligence: but if you could, I would fain have you promise me for him it shall be his last.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-Blow.</speaker>
+               <p>We dare not undertake for him, but we'll en<g ref="char:EOLhyphen"/>deavour to perswade him, therefore pray let us hear it.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>You shall. About a fortnight or three weeks ago, as near as I can guess (write it down, that you may send it him by the Penny-Post) the Emperour of <hi>Lapland</hi> sent the French King Thirty thousand slow-pac'd <hi>Lapland</hi> Horses, in a Fleet of <hi>Lapland</hi> Egg-shells, to be landed at the mouth of the <hi>Tyber,</hi> and from thence to march and be<g ref="char:EOLhyphen"/>siege the outside of the Walls of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>Well, we will tell him this News.</p>
+            </sp>
+            <sp>
+               <speaker>Cross truth.</speaker>
+               <p>Now this Heretical Villain hath done, pray, Gentlemen, let me have a word with you.</p>
+            </sp>
+            <sp>
+               <speaker>Fly blow.</speaker>
+               <p>What are you, Sir?</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:53353:9"/>
+               <speaker>Cross-Truth.</speaker>
+               <p>My Name is <hi>Cross-Truth,</hi> Gentlemen, and by Profession I am a <hi>Rogan,</hi> (I mean) a Roman Catholick.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>That is to say, <hi>A Titular Christian in Scarlet Nonsence.</hi> And so your humble servant, adieu.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>I'm glad he's gone, Sir: I must crave the ho<g ref="char:EOLhyphen"/>nour of an embrace from you, for none can rejoyce more in your good Company than my self.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>I honour him not onely for his accomplish<g ref="char:EOLhyphen"/>ments, but for the soundness of his Principles.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-Truth.</speaker>
+               <p>Gentlemen, I merit no part of these praises.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>We know what we say, Sir; but waving these Complements, let us retire to yonder cool Arbour, where we will entreat Mr. <hi>Cross-Truth</hi> to oblige us with some sto<g ref="char:EOLhyphen"/>ries of his Travels.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-Truth.</speaker>
+               <p>With all my heart, Gentlemen, any thing to serve you; you know I am by birth a French-man, and I have made it my business to Travel many a thousand miles, to be a thorow-pac'd <hi>Roman Catholick;</hi> that a Whiff from a <hi>Hugonots</hi> breath, may neither disturb my Nostrils, my Brain, nor my Conscience.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>I'le assure you, Mr. <hi>Cross-Truth,</hi> we ever had a great respect and veneration for all those who are of your honest Principles, because we know you to be firm and re<g ref="char:EOLhyphen"/>solute in what you undertake; nay, you are cryed up for the onely <hi>Loyal</hi> persons in a Christian Nation; besides, your way to Heaven is strowed with Roses and Violets, while the Hereticks Road is full of nothing but Thorns, Thistles, and Bryars; so that there's no travelling that Road without tearing ones cloaths, and scratching ones face and hands.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-Truth.</speaker>
+               <p>The Hereticks are the most grievous sort of Infidels under the Sun and Moon; they laugh at our Sa<g ref="char:EOLhyphen"/>cred Miracles, and cry them down as so many Unsanctified Follies, and Comical Romances: But you shall see that by the strength of Catholick <hi>Simile</hi>'s, I will satisfie any man
+<pb n="10" facs="tcp:53353:10"/> that hath no scrupulous Conscience, and but a tolerable deal of Faith in him, laying aside that pernicious Book the Bible, (without which we can do nothing.) Now I will begin with a Simile for that: As to stare upon the Body of the Sun when it shines bright, will bereave you of your Sight, and disturb your Head; so to read in that pestilent Book, will so blind the eyes of your Understanding, that you will gradually forsake Mother Church to turn a Northern Heretick, and so make hast to be damn'd. This excellent, Doctrine was preached in a Church at <hi>Rouen</hi> in my hearing.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>This is excellent indeed! Come, I know you are going to tell us something that's beyond it; pray pro<g ref="char:EOLhyphen"/>ceed then.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>Know, there are eleven Miracles to be con<g ref="char:EOLhyphen"/>sidered in our Sacrament of the <hi>Altar</hi> (of which I shall reckon two or three, but not all) for them we can render no other reason than a few Simile's, which may serve indiffe<g ref="char:EOLhyphen"/>rent well in lieu of <hi>Loyal</hi> Queries.</p>
+               <p>You know that the Bread in our <hi>Eucharist</hi> is daily Tran<g ref="char:EOLhyphen"/>substantiated into the Body of God; and yet there is no augmentation or increasing in God.</p>
+               <p>I prove it by reason thus: If I know of any Secret, and divulge it to a great many, they then through my decla<g ref="char:EOLhyphen"/>ration know it too; yet in me alone, or in my mind, there's never the more Augmentation for that.</p>
+               <p>Another is this: The Body of God is daily received and eaten, yet no part is diminished thereby. I have a si<g ref="char:EOLhyphen"/>mile as right as my leg for that: If a thousand candles are lighted at my candle, my candle shall have never the less light for that.</p>
+               <p>I'll give you one or two more, and lock up the rest for another time: The Body of God, though it be taken and received of the wicked, is not therefore defiled: our Ca<g ref="char:EOLhyphen"/>tholick Similie for it is this; The Sun, though is shines on a Dunghill, or any other unclean place, is not defiled or
+<pb n="11" facs="tcp:53353:10"/> made worse thereby: Know this too, that though the Bread be turned into the very substance of the Body of God, the accidents of the Bread still continue; that is to say, the Weight, the Colour,<note place="margin">Durandus in Rationale Divi<g ref="char:EOLhyphen"/>norum officiorum.</note> the Tast and Smell. Now if any one will be so kind as to help us to a simile for this, they will oblige us much; for as yet we have found none.</p>
+               <p>What tho the Hereticks call this Doctrine monstrously Blasphemous and unreasonable! if we say black is white, we ought to believe it, because the Church bids us do it.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Could I pull off my Mask handsomly, and di<g ref="char:EOLhyphen"/>scover my self without danger, I should for my part be proud to own your Religion as the most true and ancient Doctrine: We may have good encouragement to promote it in this Northern spot, if we use but our endeavours to remove the Head of the Heretical power now in being, to make way for a good and famous Catholick Head, one that shall revenge the Wrongs those Hereticks have done us.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>By the means of our labour and industry we need never to fear our hopes will dye, as long as his Ho<g ref="char:EOLhyphen"/>liness Janizaries the Jesuits do but toyl and weary their Brains, together with his English Secretaries.</p>
+               <p>But to proceed again, if the Wine be frozen in the Cha<g ref="char:EOLhyphen"/>lice after the Priest hath turned it into God, he must breath upon it (no matter whether his breath stinks or no) till it be melted and dissolved;<note place="margin">Gulielmus Dur. in Rat. di. offi. lib. <hi>4.</hi>
+                  </note> and if that will not do, let him throw some hot coals in<g ref="char:EOLhyphen"/>to't. He that hath received this Eucharist must also for<g ref="char:EOLhyphen"/>bear to spit for a considerable time; afterwards with his conveniency he may spit, but it must be where the spittle may not be trod upon; as, in one of his Coat-pockets, or, unbuttoning his Coat, into his bosom: if a woman, let her spit in her Turning-up-pettycoat; for these are things of weight and moment, and ought to be maturely look'd in<g ref="char:EOLhyphen"/>to.
+<pb n="12" facs="tcp:53353:11"/> It must not be chawed neither as other meat is, but must be softned with a great deal of discretion both with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Tongue and Teeth, that there may not a crum stick up<g ref="char:EOLhyphen"/>on the Teeth, for fear it should chance to be cast out with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pitting.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>What man of sense could hear these admirable <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings, and be out of love with so good a Religion, where Miracles do every day confirm the truth of it?</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>There are besides, several Penances that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hose Priests are to endure who through negligence let any of this blessed Bloud (as we call it) drop upon the floor, which if it so happens, he must lick it up with his Tongue <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oo; or if he lets mice run away with the body of the God he hath made. I might descend to more particulars about this thing, were I not afraid of tireing you patience by being too Prolix; therefore I shall change the Scene, and discourse of that which is the prop to support the aking Head of our Church, as well as the greatest Comfort to the Souls of such as are deceased.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>I suppose, Sir, you mean <hi>Purgatory?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>The same; but whereabout it is, hath e<g ref="char:EOLhyphen"/>ver been a dispute among the most knowing of us: though truth hath a perfect harmony and no discord, yet it may be the pleasure of Heaven to conceal the place from us, for reasons which we are not to examine. Some are of opinion that there is but a Slit-deal divides Purgatory from Hell,<note place="margin">In Longobar<g ref="char:EOLhyphen"/>dica Historia in Legenda aurea in vitis patrum.</note> and that they are both of a floor under the earth. Others again say, that it is not near Hell, but in the Air, near the bo<g ref="char:EOLhyphen"/>dy of the Sun, or the Torrid Zone; and that it is plac'd there for conveniency, for that it being near Heaven, the Souls may after they are purged immediately step over the Groundsell into Heaven, and save themselves the trouble<g ref="char:EOLhyphen"/>some journey they would have had, had it been further off. There are also some that say it is neither near Heaven nor
+<pb n="13" facs="tcp:53353:11"/> Hell, but that the Souls are severally and diversly placed, some above, some below, some in the middle, every one as he deserves; and so accordingly some suffer more pain, and some less, according to their Crimes. Nay, the very motes and Atoms in the Sun, which are often seen moving in the Sun-beams in a Summers-day, are every one of them by some of our Learned Clergy believed to be Souls in Pur<g ref="char:EOLhyphen"/>gatory.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>What Excellent Divinity is this! I could hear him discourse all day methinks.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>Now you must likewise know, that there are according to our Catholick Doctrine, three degrees of Souls that are departed; as first,<note place="margin">Durand. in Rat: di. Offic. lib. <hi>7.</hi>
+                  </note> your <hi>valde bonae</hi> Souls, that is to say, very good Souls. Secondly, your <hi>valde malae,</hi> which are very bad ones: and lastly, your <hi>mediocriter bonae;</hi> that is to say, meanly or indifferently good.</p>
+               <p>The very good Souls go directly to Heaven, without giving themselves the trouble of calling at Purgatory by the way; and consequently need no Masses to be said for them. Your very bad ones go directly to Hell, without the comfort of Purgatories burnings. The meanly good go to Purgatory, who for a good reward left in their Wills, or given in hand (perhaps half or all their Estate) after the Priest hath been terrifying them on their death-beds with the dreadful pains of Purgatory, which at that time induceth them to be the more liberal, (to be freed from such cruel Torments) they are glad to leave or give some<g ref="char:EOLhyphen"/>thing to support the Church and Priesthood: then their sins are forgiven, and they by Expiatory Sacrifices are re<g ref="char:EOLhyphen"/>lieved and helped. But those that are poor, are for the most part forced to stay longer in Purgatory than the rich, for want of being goldenly devout to the Church; and for the Souls that are meanly evil which go to Hell, our Religion hath found out ways to mitigate and lessen their
+<pb n="14" facs="tcp:53353:12"/> pains, that their Damnation may be more tolerable.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>Then according to your Doctrine the rich shall secure Heaven, and shut the poor out.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>Scoundrels, what should they do in such a dainty place? though our Crucified Lord saith, <hi>It is easier for a Camel to go through the eye of a needle, than for a rich man to enter into the Kingdom of God;</hi> Yet I believe his Holiness knoweth better things, for I look upon him to be the wiser of the two.</p>
+               <p>
+                  <note place="margin">Ex Missali Manuscripto Anno <hi>1354.</hi>
+                  </note>But I am now going to tell you a story about <hi>Purgatory:</hi> At a certain time when a <hi>Grego<g ref="char:EOLhyphen"/>ry</hi> was a Pope of <hi>Rome,</hi> he had a Mother whom he most intirely loved, and she was esteemed a woman en<g ref="char:EOLhyphen"/>dowed with the Vertue and Piety of Angels; but so it hap<g ref="char:EOLhyphen"/>ned, that through much importunitie, and secret perswasi<g ref="char:EOLhyphen"/>on, she was got with Child; and to save her holy Honour, when the time came, she murthered it. The same mis<g ref="char:EOLhyphen"/>chance hapned a second time, and she likewise murthered that, and some time after died, in the opinion of all that knew her, a very Pious and Religious woman. But it hapned on a certain time when this <hi>Pope</hi> was saying Mass, a thick darkness like a starless night appeared just by him, and in the midst of it he could discern a gastly Figure with a most miserable, lean, pale, and sorrowful countenance: The Pope having conjured and demanded what it was, it surprizingly answered, <hi>O my dearly beloved Son, I am thy Mother.</hi> The Pope was amazed, for he really thought his Mother had been gone to Heaven as round as a Juglers box, and took upon him the boldness plainly to tell her so; but she, without mincing her words, told him the whole truth of the matter, (for it was not for her interest to tell a lye then) and that she was in such pain, that the very Pur<g ref="char:EOLhyphen"/>gatory-flames came blazing out of her mouth; which the Pope saw well enough too, and was heartily troubled to see his Mother in such a condition, (for who could think
+<pb n="15" facs="tcp:53353:12"/> less?) and most civilly and dutifully asked her, whether a<g ref="char:EOLhyphen"/>ny thing in the world could deliver her out of that pain? She told him that if any man will be so kind as to sing a Trental of Masses for her, she should be freed from pain, and go to Heaven without stop or stay. After the Pope had asked her what Masses they should be; and when she had told him, <hi>Mother,</hi> said he, <hi>trouble your head no further, I'll do't:</hi> so he commanded his Mother (which look'd a little odd) to meet him again at the very same time the year following: And indeed she obey'd her Sons Commands; for at that time when the Pope was singing Mass himself, he saw great Rays of light, and in the midst two Angels coming down to him with a beautiful Lady in a most Glo<g ref="char:EOLhyphen"/>rious apparel between them; at first he took her for the Queen of Heaven, and fell at her feet, crying out, <hi>O Regi<g ref="char:EOLhyphen"/>na Caeli, miserere animae matris meae; O Queen of Heaven, have mercy on my Mothers Soul:</hi> but she cryed out, <hi>Most dear Son, I am thy Mother, and am changed from what thou sawest me first, into this happy condition, and am going to Heaven with these two Heavenly Messengers. All this is done by the help of thy Masses and Prayers: Know also, dear Son, that all those who may be under those Circumstan<g ref="char:EOLhyphen"/>ces as I was, or let their Crimes be greater, yet shall they by those very Masses I desired you to say for me, be saved, even as I am.</hi> So not forgetting to give her Son thanks for his kindness, away she went.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>There's nothing under Heaven comparable to the vertues of the Mass.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>No, nothing at all; therefore it is fit our in<g ref="char:EOLhyphen"/>feriour Clergy should be better instructed.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>But now, Gentlemen, I am go<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g to make it appear to you, that Purgatory may be diversly placed, according to the will and pleasure of Heaven, in the fol<g ref="char:EOLhyphen"/>lowing story.</p>
+               <p>On a certain time (but whether it was in Winter or Sum<g ref="char:EOLhyphen"/>mer,
+<pb n="16" facs="tcp:53353:13"/> I can't tell, for we don't stand upon seasons for a mi<g ref="char:EOLhyphen"/>racle; some Fishermen casting their Nets, took up a great piece of Ice, and it was beyond all other Ice in coldness; nay, the very heat of the Sun was not capable of melting any part of it. After a great Contest among them, they carried it to the <hi>Bishop,</hi> who had got a great burning heat in his foot, (now whether it was his right foot or his left, my Author doth not say): while he was admiring the ex<g ref="char:EOLhyphen"/>tream coldness of it, of a sudden a voice spoke thus to him out of the Ice; I am a Soul that suffereth Pennance in this Ice, and I have no friends that will be so kind to say Masses for me. I shall be freed from my pain, and thy foot shall be cured, if thou wilt but say Mass for me. (This was but civil, for one good turn requires another, and it shews that there's some breeding in Purgatory.) So the Bi<g ref="char:EOLhyphen"/>shop took him at his word, and always when he said Mass, he laid the Ice under his foot, which by degrees melted till it was all consumed; so the Soul was delivered out of pain, and the <hi>Bishop</hi> was cured: and afterwards the Soul appeared to him, and told him, that by the help of his Masses he was got to Heaven; and I think it was extream kindly done of him, to come out of it again to tell him so.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>The more I hear of these stories, the better it confirms me in the good opinion I have of your Religi<g ref="char:EOLhyphen"/>on.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>Then I will tell you another very good one:<note place="margin">In Legenda Aurea.</note> there was a certain man whose house stood by the side of a Church-yard, so that his door opened to the Church; and it was his custom, that when he went out or in, to say a Prayer for all Christian souls; the same as we call <hi>De Profundis.</hi> Once as he was coming home, he hapned to be pursued by enemies: But coming to the Church-yard he kneeled down, and was going to his aforesaid Devotion, and his enemies were al<g ref="char:EOLhyphen"/>most
+<pb n="17" facs="tcp:53353:13"/> most got at him, when most miraculously, and to manifest their gratitude to one that was so good to all Christia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Souls, the dead bodies in a trice got all of them up out o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Graves; and each of them armed with the Instru<g ref="char:EOLunhyphen"/>ment he usually worked with when he was alive; as the Baker with his Peal, the Smith with his Hammer, the Coach-man with his Whip, the Country-man with his Pitchfork, the Labourer with his Spade and Pickax, and the rest accordingly. In fine, they drove away the mans enemies, and were the cause of their becoming Converts, for ever after they would commonly pray for the delive<g ref="char:EOLhyphen"/>rance of Souls out of Purgatory.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>Heaven is not so kind to manifest such Mira<g ref="char:EOLhyphen"/>cles to the Hereticks.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>No, no, they are the wretches the merit our Curses. But you shall hear one miraculous Purgatory-Story more, and then we'll shut up its Gates, and go some<g ref="char:EOLhyphen"/>where else. There was a certain Knight who was going to a Battle, (attended with a Squire as I suppose) and had a kinsman he loved extremely, of whom he desired (if he hapned to be kill'd in the Fight) that he should sell his Horse, and distribute what he had for it among the poor to say prayers for all Christian souls. The Knight was kill'd as dead as a door-nail, and his Couzen having a great honour and respect for the Horse (whether it was for the horses own sake, or for his that it did belong to, I do not know) performed not the fighting Knights will, but took the horse to his own use.<note place="margin">In Legenda Aurea.</note> 'Tis said that in some time after, the Knight appeared to him (but whether it was he himself, or some body else in his cloaths, I cannot resolve you) but the thing that appeared had a voice which sounded in this manner to him: <hi>For my horse I have been burning these eight dayes in Purgatory, and therefore the Vengeance of Heaven will light upon thee, this day thy Soul shall go to the Devils in hell,</hi> (a damnable
+<pb n="18" facs="tcp:53353:14"/> sort of Comfort from a Couzen) <hi>Et ego purgatus vado in Regnum Dei, and I Being purged go to the Kingdom of Heaven.</hi> Now after what manner he came to be Purged, is a weighty dispute among the Learned; because we can<g ref="char:EOLhyphen"/>not hear what friend he had to stick by him in the world to say Masses for his Soul: But in fine, the cruel words were no sooner out of the unkind Couzens mouth, but the Devils made a horrible din and roaring in the Air; and at last carried this man away; but whether he was carried a foot or a horse-back my Author doth not say.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>These things are able to confound the most obstinate.</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>Now, Gentlemen, I will give you a tast of the Wonders and Relicks I have seen and heard of in my Travels, as well in <hi>Jerusalem</hi> as in <hi>Italy.</hi>
+               </p>
+               <p>In a Church called <hi>L' Anonciade</hi> in <hi>Florence</hi> are a great many Signs and Miracles done by the Intercession of the Virgin <hi>Mary,</hi> who is there invoked: and 'tis swallowed down for an infallible Truth among us Catholicks, That the Figure of the Virgin <hi>Mary</hi> set up to be prayed to in that Church, was done by St. <hi>Lukes</hi> own hand; though some boldly say that it was then when he had little else to do.</p>
+               <p>Parting once from <hi>Sienna</hi> I came to a Lake called <hi>Bol<g ref="char:EOLhyphen"/>sena,</hi> and to a Castle that bears the same Name, where the Body of St. <hi>Christina</hi> is adored, who being cast into this Lake walked miraculously out again, and had no injury at all done to her; nay, some say her very Cloaths were not wetted. Had this Miracle been done in <hi>England,</hi> her Saintship might have been burned for a Witch perhaps.</p>
+               <p>In the very same place another Miracle hapned; the Consecrated Host or Wafer being held in the hand of a Priest who doubt whether it was the true Body of God or no, got of its own accord publickly out of his hands, and caper'd and jump'd from place to place upon some
+<pb n="19" facs="tcp:53353:14"/> Marble stones, where it left marks and signs of blood, which are to be seen at this day.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>But was you never at <hi>Rome,</hi> Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>Yes, and I am going to tell you what I saw there.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Did you see his Holiness?</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>Yes sure, or else I had been an undutiful Son to Mother-Church; And by and by I will give you a Relation of the Order and Ceremonies used when his Ho<g ref="char:EOLhyphen"/>liness goes to Chappel and about the City: But first let me proceed to give you an account of the Miracles and Re<g ref="char:EOLhyphen"/>licks to be seen and done there.</p>
+               <p>Upon Mount <hi>Aventine</hi> in <hi>Rome</hi> is the Church of Saint <hi>Alexis,</hi> wherein is the Image of the Virgin <hi>Mary,</hi> which Image once spoke to a Prior but in what Language I know not) who for want of true Catholick breeding most uncivilly denyed the aforesaid Saint entrance: the words it spoke were these: <hi>Open and let</hi> Alexis <hi>enter, for he is worthy of the Kingdom of Heaven.</hi>
+               </p>
+               <p>Upon Mount <hi>Viminal</hi> stands the Church of St. <hi>Laurence,</hi>
+                  <note place="margin">My Lord <hi>Vil<g ref="char:EOLhyphen"/>liamont</hi> Knight of the Order of St. <hi>John</hi> of <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> and Gen<g ref="char:EOLhyphen"/>tleman Extraor<g ref="char:EOLhyphen"/>dinary to the French King, <hi>An<g ref="char:EOLhyphen"/>no</hi> 1620.</note> where all clear-sighted peo<g ref="char:EOLhyphen"/>ple that come there, may see (if they can) a piece of the Gridiron upon which he was broyled. And in the Church of St. <hi>Jean de Latran</hi> you may both see and feel the Chains (nay, and believe 'um to be so too, if you will) that Saint <hi>John</hi> the <hi>Evanglist</hi> was bound with, when he was carried from <hi>Ephesus</hi> to <hi>Rome;</hi>
+                  <note place="margin">Translated from the French.</note> toge<g ref="char:EOLhyphen"/>ther with an old Coat of his, that raised three persons from the dead.</p>
+               <p>And you may likewise see some of the Virgin <hi>Mary's</hi> old Cloaths, with a Shirt she made for her Son; and some of the wood of the Cross whereon Christ suffered. Ad<g ref="char:EOLhyphen"/>joyning to the Church is a Chappel wherein are a multi<g ref="char:EOLhyphen"/>tude of Relicks, as the Altar that St. <hi>John</hi> the <hi>Baptist</hi> had
+<pb n="20" facs="tcp:53353:15"/> when he was in the <hi>Desart: Moses Rod,</hi> and <hi>Aarons</hi> Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oral Saff: <hi>Moses</hi> Rod is also to be seen in several other <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laces in the world, but no matter for that.</p>
+            </sp>
+            <sp>
+               <speaker>Fly-blow.</speaker>
+               <p>By visiting these blessed Relicks, I suppose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou gain Pardons and Indulgences.</p>
+            </sp>
+            <sp>
+               <speaker>Cross truth.</speaker>
+               <p>Yes; and I will now step into the Holy and, and give you an account of some of them.</p>
+               <p>The Pope alloweth us for visiting the Chappel in <hi>Jeru<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alem,</hi> where Saint <hi>John</hi> the Evangelist (as we say) Cele<g ref="char:EOLhyphen"/>brated the Mass of our Lady,<note place="margin">Ibidem.</note> Pardons and Indul<g ref="char:EOLhyphen"/>gences for seven years.</p>
+               <p>We have allowed us at Mount <hi>Calvary,</hi> where the Cross was planted, and our Saviour Crucified, a Plenary In<g ref="char:EOLhyphen"/>dulgence.</p>
+               <p>For visiting the Temple of <hi>Solomon,</hi> where we say the Virgin <hi>Mary</hi> had her breeding and education, a Plenary Indulgence.</p>
+               <p>In <hi>Herods</hi> house, where our Saviour was reviled, the same, and the same at the Virgin <hi>Mary's</hi> own house.</p>
+            </sp>
+            <sp>
+               <speaker>Fly blow.</speaker>
+               <p>But how do you know these to be such and such places and things?</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>By the very countenance of them, by our holy Traditions; because the Church tyes up our Faith in them, and by the wonderful and manifold Miracles that are daily wrought in those places. But to satisfie your Curiosities further.</p>
+               <p>There is in the Holy Land a whitish and glutinous sort of Earth, with which the <hi>Grecians,</hi> and other of those Eastern Nations, make <hi>Crowns</hi> and <hi>Pater Nosters</hi> to sell to Pilgrims. And this is the very self-same Earth wherewith God Almighty made our first Father Saint <hi>Adam.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Pray who made him a Saint?</p>
+            </sp>
+            <sp>
+               <speaker>Cross-truth.</speaker>
+               <p>I may be mistaken, but I think I am not, for if he is not, he ought to be one; pray why may not he be a Saint as well as Saint <hi>Valentine,</hi> St. <hi>Orson,</hi> and St
+<pb n="21" facs="tcp:53353:15"/>
+                  <hi>Paradiso</hi> at <hi>Rome?</hi> However, I will look over my Calen<g ref="char:EOLhyphen"/>der of Saints by and by, and then I will give you full satis<g ref="char:EOLhyphen"/>faction.</p>
+               <p>But pray let's make no more digressions. As I was coming from <hi>Jerusalem,</hi> I went to see a City called <hi>Baruth,</hi> scituated by the Sea, and there I saw a Chappel where the Jews once scourged and crucified a Crucifix, which fee<g ref="char:EOLhyphen"/>ling the blows it received, fell most miraculously a bleeding (whether the Crucifix was made of wood or stone, I have forgot) but it converted the Jews, and turned them into Roman Catholicks of the True Stamp; and the Blood which came from the wooden or stone Images wounds was most carefully gathered up, and sent as a precious Re<g ref="char:EOLhyphen"/>lick to divers parts of <hi>Christendom,</hi> where it had the pow<g ref="char:EOLhyphen"/>er to heal a great many sorts of Diseases. Nay, not far from this City is the very place where Saint <hi>George</hi> killed the Dragon (whose History is most excellently compiled in your English Penny-volumes) that would have devoured the King of <hi>Baruths</hi> Daughter: together with the Cave wherein the Dragon dwelt, and the Ditch wherein he was put after he was killed, where his precious Bones are to be seen to this day.</p>
+               <p>There was once in the Gulph of <hi>Satellia,</hi> through which I sailed, a Monster that made the Seas so rough and stormy, that all Ships were drowned that ventured to pass that way; which story coming to the knowledge of her Lady<g ref="char:EOLhyphen"/>ship Saint <hi>Helena,</hi> as she was going to <hi>Jerusalem</hi> she threw one of the Nails into the Sea that had fastned our Saviour to the Cross, so that by the help of her Prayers, and the virtue of that Nail, the Monster died, and (as we say) the Sea hath never been so tempestuous since.</p>
+               <p>Now having given you a succinct account of many emi<g ref="char:EOLhyphen"/>nent and notorious wonders relating to our Catholick Church, I shall here cut off that discourse, because I would not trouble your ears too much with one thing, and re<g ref="char:EOLhyphen"/>late
+<pb n="22" facs="tcp:53353:16"/> to you in what pious <hi>Grandeur</hi> the Most Holy and Right Reverend Head of our Church is Christianly ho<g ref="char:EOLhyphen"/>noured and adored by all holy Catholicks.</p>
+               <p>This is he, that hath the two mighty Swords, the Tem<g ref="char:EOLhyphen"/>poral and Spiritual.</p>
+               <p>This is he, who is more Infallible, and whose Word is more a Law, than the word of any Saviour, Angel, he or she Saint whatsoever.</p>
+               <p>What my eyes have seen, this Paper will particularly inform you; and to satisfie your Curiosity, be pleased to read it.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Sir, your most obliged Servant, I will read it out, that these other Gentlemen may hear it:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="document">
+                           <head>A True Relation of the Order and Ceremonies used when His Holiness is conveyed about the City of <hi>Rome,</hi> and when he goeth to the Church of St. <hi>Peter.</hi>
+                           </head>
+                           <p>His Pages and others of his Domestick Servants apparel<g ref="char:EOLhyphen"/>led in his Livery march first, leading a Lone Horse; a Mule and a Horse-litter followeth, carried by two little white Mules well harnessed, and adorned with Crimson velvet, as is the first horse and mule. Then the Switzers of his Guard march two and two, followed by some of his Noble<g ref="char:EOLhyphen"/>men and Cavaliers well mounted: Afterwards comes his Officers and Chamberlains on horse back, wearing square Caps. Then comes he that bears the Cross before his Ho<g ref="char:EOLhyphen"/>liness, and the Master of the Ceremonies, who, as he goeth, cryeth out, <hi>Abassa, Abassa,</hi> that is to say, Down, Gentle<g ref="char:EOLhyphen"/>men, fall down, to give notice to every body to put their knee to the ground, that in that most humble posture they may be ready to receive the Divine Blessing of their Spiri<g ref="char:EOLhyphen"/>tual Mortal God and holy Father the Pope: Who being in his Horse-litter covered with Crimson velvet, scorns to be nice of his precious Benediction, but throws it away to
+<pb n="23" facs="tcp:53353:16"/> all the crowd about him. On each side of his Litter walk two Pages bare headed, as well to conduct and guide the Mules that carry him, as to be ready to receive his Commands when he hath occasion. After these comes the Cardinals mounted on their Mules most gallantly accou<g ref="char:EOLhyphen"/>tred, who are followed by the Archbishops, the Bishops, and other eminent Officers of the Clergy: His Light-horse<g ref="char:EOLhyphen"/>men bring up the Rere, who are well mounted and armed. In this order being come to his Palace-gate, he turns about to the people, and in giving them leave to depart, is also very bountiful again in bestowing his Blessing on them.</p>
+                           <p>But when his Holiness goeth to St. <hi>Peters</hi> Church, then there's a great deal more to do</p>
+                           <p>All the Cardinals (who are above fifty) go to wait on him at his Palace, from whence in couples they march to take their places in the Church. His Holiness comes next seated in a kind of a Chair of State or moving Throne, beautified with Crimson-velvet, and his Triple Crown on his head sparkling with precious Stones; and he is car<g ref="char:EOLhyphen"/>ried on the shoulders of eight men dressed in Red. There walks also on each side of him a man in Red, who have each of them a sort of Fan in his hand, fastned to the end of a gilded Staff, composed of Feathers plucked from the most curious Birds. Being carried in this pomp, four of his Trumpets continue to sound till he hath taken his Seat in the Church, which is raised upon six steps; where when he is mounted, every one very formally according to his de<g ref="char:EOLhyphen"/>gree and quality takes his place.</p>
+                           <p>After a great many ceremonies are past, the Cardinals go to render their obedience to his Holiness, by kissing the right side of his Cope (for there it is they always kiss, the Bishops his knee, and all the rest of the Christian world (if they will) his Pantofle;) so he that is to make the short Sermon, is brought to the Popes feet to kiss his Pan<g ref="char:EOLhyphen"/>tofle,
+<pb n="24" facs="tcp:53353:17"/> or Slipper, and receive the comfort of his Blessing before he sets his foot in the Pulpit. Then the Cardinal that saith Mass, approacheth the Altar to make ready the Incense, which is afterwards given to the Pope, and all the Cardinals with a great deal of Ceremony; for he that re<g ref="char:EOLhyphen"/>ceives first, makes a reverend bow to his Neighbour Car<g ref="char:EOLhyphen"/>dinal, the second to the third, the third to the fourth, and so it goes as round as a hoop, thorow them all; (now whe<g ref="char:EOLhyphen"/>ther they bow thus for Devotion, or to show their Man<g ref="char:EOLhyphen"/>ners, I cannot tell) and after the sound of <hi>Pax tecum</hi> is gone round to one another, and the Mass being done, the Pope gives them his Blessing once more, and then returns <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>o his Palace, in the same manner he came from it.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Cross-Truth.</speaker>
+               <p>Now Gentlemen I imagine you begin to be tired, and the Sun is set, so that I believe it will be ne<g ref="char:EOLhyphen"/>cessary to reserve the rest for another time, and walk in before the dew falls too fast upon us.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>More for your own ease than ours, we submit to you in this, as we are ready to do in every thing else: for such pleasant truths can tire none but insipid Here<g ref="char:EOLhyphen"/>ticks.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>A Hodge-Podge of very pretty truths indeed, 'tis just like Mr. <hi>Swift-heels</hi> chopping of rusty Logick; and what can be expected from the fundament of a Jesuit but such Excrements? as I stood behind the Arbour, Gentlemen, I had the honour to hear all your admirable Miracles, but I had no power to conceal my self longer.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Is he come again to torment us? what an unheard-of impudence is this? Sir, I have a good mind to break your pate with my Fiddle.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>What would you make a Musical pate on't, and fill it full of Crotchets and Quavers like your own? you are grown too old to fight, unless you make your Pen your Quarter-staff; and with that you play but false strokes too, you never hit the substantial part of any thing, but
+<pb n="25" facs="tcp:53353:17"/> like the brushing of a mans cloaths, you move onely about the out-side.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>What, you would infer from this, that I leave the most material part of any thing unanswered, and onely pick out what may serve a<note n="*" place="margin">To prove this, per<g ref="char:EOLhyphen"/>use that ingenious piece The Character of a Po<g ref="char:EOLhyphen"/>pish Successor.</note>
+                  <hi>Turn,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>Yes; and for excuse your Admirers cry for you, you enter the Lists every week, so that 'tis impossible for a man of your business to be so exact. And what is this mighty business, but to make sophistical Traps to catch Tory-woodcocks in?</p>
+               <p>You are according to the Rules of Jesuitism to raise feuds and heats among people, to aggravate and screw things to such a pitch, that you and your gang may be ready to be upon the catch to pick holes in the Whiggs coats. You are sometimes to rail, and make a grievous noise, to wrest and tear the letter of the Law from its true sense and meaning, as your Masters the Papists do the Law of God. The Torrent of Reason you are to turn a quite contrary way; you are to pretend to know an Authors meaning by his gaping, yet explain it otherwise.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>How do you prove these things?</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>In time it may be made fully appear: you in opprobrious Language (which had it been used to Carmen might have passed perhaps) have endeavoured to sully Stars of the first Magnitude. But when the Sun shined strongly and powerfully upon them, then you beheld them (and dared not to do otherwise) with an awful Reve<g ref="char:EOLhyphen"/>rence, and joyful Admiration. And now when apoyso<g ref="char:EOLhyphen"/>nous Vapor, raised from the Popes stinking common Shores, deprives them of the Suns Light, you basely spurn at those could once have made you tremble; and to render them odious, use the fine terms of Rabble, nay, which is worse, Fools, Fops, Puppies and Rebells.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>I deny all these things, I never said them in
+<pb n="26" facs="tcp:53353:18"/> my life; I have a good mind to take the Eucharist upon it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oo.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>You are too full of talk to gain all the world <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o your side; yet you have taught your Pupills the Tories to cry out every where, The Whiggs Cause goeth down apace, it is almost broke; which is in plain terms to say, that Protestantism in general shall gradually be extirpated, and Legal, Loyal, Strict, Uncorrupted, Sacred, Trium<g ref="char:EOLhyphen"/>phant, and Infallible Popery shine upon us like the light of a Rush-candle.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>Sir, how dare you go to explain our mea<g ref="char:EOLhyphen"/>ning? I say the Whiggs Cause shall go down right or wrong.</p>
+               <p>Had not your saucyness interrupted us, we had been gone out of the Garden before now.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>Gentlemen, I'll be your hindrance no longer; onely give me leave as we are walking out to tell you a Jewish story.</p>
+            </sp>
+            <sp>
+               <speaker>Swift-heel.</speaker>
+               <p>With all our hearts, we will have so much patience for once.</p>
+            </sp>
+            <sp>
+               <speaker>See-well.</speaker>
+               <p>It hath some semblance with your Golden-Le<g ref="char:EOLhyphen"/>gend Miracles, therefore you would do well to get it inser<g ref="char:EOLhyphen"/>ted; no doubt but it may pass as well as the rest.</p>
+               <p>At the sound of a certain Trumpet the Jews are all to be gathered together in the Holy-land, and there they are to make a great Feast; among other prodigious meats that are to be served up at this Banquet, is a great Bird, (and I think my Author saith it is to be roasted, but I dare not be positive in it). This great Bird laid an Egg so big, that by chance tumbling out of its Nest knocked down Three hundred tall Cedars, and breaking as it fell, drowned one hundred and threescore Villages, (my Author doth not say where the Nest was built) but the Bird stood up to the knees in the Sea, and the Sea was so deep that a hat<g ref="char:EOLhyphen"/>chet would not fall to the bottom in seven years. There's
+<pb n="27" facs="tcp:53353:18"/> an end of my story, and so farewel, for I know you don't like my Company, and I care as little for yours.</p>
+            </sp>
+         </div>
+         <div type="appendix">
+            <head>An APPENDIX.</head>
+            <p>This After-clap should not have appear'd, had we not (since these sheets were in the Press) heard how no<g ref="char:EOLhyphen"/>torious a Villain <hi>Nat Mar-Plot</hi> hath made himself.</p>
+            <p>It is very strange that Fools should lead Knaves the way, when Knaves have shewn Fools a track to follow, e<g ref="char:EOLhyphen"/>ver since the Popish Plot grew first in fashion: If there be any such thing in nature as a <hi>Reasonable Tory,</hi> that thing must certainly think, there is somewhat more than the empty Shadow of a Popish Plot, by <hi>Nat Mar-Plot</hi>'s spoyling of it, (tho it was too obstinate to be convinced by the discovery of the whole Kingdom before) and that the Je<g ref="char:EOLhyphen"/>suits, who ever delighted to get drunk with swallowing State-sippits, have some little reason now to look black in the mouth, to shrub up their shoulders, and cast down their heads: This it is for that Renowned faculty to em<g ref="char:EOLhyphen"/>ploy Fools in their Cause. Now let any man that hath but the sense of hearing (which is but one of the five) tell me, whether the Stomach of Englishmen can digest such a Lump of Blood and Nonsense, as <hi>Rome</hi> and its Jesuitical Throng, have in all ages, and in most places, restlessly Administred. No, no, as long as they have hearts and hands, they can never endure a Roman Yoke; and what they still drive at is seen with a wink, by the business of this Insipid Fop: but it was Heavens pleasure they should em<g ref="char:EOLhyphen"/>ploy such a Tool, to the end they might be infatuated in the very midst of their damnable Projects; that a Current of blood might be stop'd, which was going to be let out of our Veins: For had not the guilt of these Witnesses be<g ref="char:EOLhyphen"/>trayed them in the face of Justice, and had they gone on in their Show, and been believed, the Conscequence had
+<pb n="28" facs="tcp:53353:19"/> without doubt been Bloody, and the Northern Hereticks (as they are pleased to term them) should once again have wallowed in their own gore. In the next Plot though perhaps they may endeavour to make some amends; for they'll ne're grow weary till they have had their Loan both above board and below. What an Age do we live in? when no man shall be esteemed a good <hi>Patriot,</hi> but he that either shuts his eyes at the Designs of <hi>Rome,</hi> or boldly gives them encouragement. That English-men should once again endeavour to make slaves of themselves to that Devouring Scarlet Monster of <hi>Rome,</hi> is a Riddle not to be expounded, but by being sensible that they have long nourished Snakes in their very Bosoms.</p>
+            <p>
+               <note place="margin">Sir <hi>Francis Bacons</hi> Essays, page 97.</note>Sir <hi>Francis Bacon</hi> saith, That in all Su<g ref="char:EOLhyphen"/>perstition wise men follow fools; which is without doubt a great Truth; but then we must allow that Interest rules the Roast in those wise men, and not Consci<g ref="char:EOLhyphen"/>ence: And it may be said indeed that the late Comet hath a wonderful influence upon some parts of Europe, when we see Reason trampled under foot in our own Country, the Protestant Religion begun to be made a May-game, Folly gain applause, and a Nation endeavour to destroy it self in its own bowels.</p>
+            <p>I wonder whether <hi>Nat</hi> and his Associates have learned so much Confidence as to blush or to shew any sign of Shame for what they have been employed to do, or whe<g ref="char:EOLhyphen"/>ther he is not kicked out of the Cabal for betraying them like a fool as he was.</p>
+            <p>If he would be so kind now as to make his Consiteor, and let his Majesty and the Nation know the wiser Brains that set a Shallow brain to work; it would in some mea<g ref="char:EOLhyphen"/>sure mitigate the injury he hath done to his King and Country; but the purchase is too great o'th' other side, I fear. <hi>Rome</hi> ever bids fair to hinder a man from Repentance; and so let her, till she hath buried her self in her own Riunes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
